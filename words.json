@@ -1,0 +1,3118 @@
+{
+  "words": [
+    {
+      "name": "겁쟁이",
+      "category": "공포",
+      "tag": "겁쟁이/Noun",
+      "value": 6.66
+    },
+    {
+      "name": "잔혹하다",
+      "category": "공포",
+      "tag": "잔혹/Noun",
+      "value": 6.87
+    },
+    {
+      "name": "조마조마하다",
+      "category": "공포",
+      "tag": "조마조마/Noun",
+      "value": 4.63
+    },
+    {
+      "name": "불안정하다",
+      "category": "공포",
+      "tag": "불안/Noun|정/Noun",
+      "value": 5.4
+    },
+    {
+      "name": "으스스하다",
+      "category": "공포",
+      "tag": "으스스/Noun",
+      "value": 6.39
+    },
+    {
+      "name": "아찔하다",
+      "category": "공포",
+      "tag": "아/Exclamation|찌다/Verb",
+      "value": 6.32
+    },
+    {
+      "name": "긴장되다",
+      "category": "공포",
+      "tag": "긴장/Noun",
+      "value": 4.72
+    },
+    {
+      "name": "긴박하다",
+      "category": "공포",
+      "tag": "긴박하다/Adjective",
+      "value": 4.74
+    },
+    {
+      "name": "을씨년스럽다",
+      "category": "공포",
+      "tag": "을/Josa|씨년/Noun",
+      "value": 6.28
+    },
+    {
+      "name": "무섭다",
+      "category": "공포",
+      "tag": "무섭다/Adjective",
+      "value": 8.12
+    },
+    {
+      "name": "와들와들",
+      "category": "공포",
+      "tag": "와들와들/Noun",
+      "value": 6.49
+    },
+    {
+      "name": "겁나다",
+      "category": "공포",
+      "tag": "겁나다/Verb",
+      "value": 6.94
+    },
+    {
+      "name": "잔인하다",
+      "category": "공포",
+      "tag": "잔인/Noun",
+      "value": 7.58
+    },
+    {
+      "name": "불안하다",
+      "category": "공포",
+      "tag": "불안하다/Adjective",
+      "value": 6.13
+    },
+    {
+      "name": "초조하다",
+      "category": "공포",
+      "tag": "초조하다/Adjective",
+      "value": 4.45
+    },
+    {
+      "name": "안절부절하다",
+      "category": "공포",
+      "tag": "안절부절/Adverb",
+      "value": 4.28
+    },
+    {
+      "name": "스산하다",
+      "category": "공포",
+      "tag": "스/Noun|사다/Verb",
+      "value": 6.36
+    },
+    {
+      "name": "두렵다",
+      "category": "공포",
+      "tag": "두렵다/Adjective",
+      "value": 7.68
+    },
+    {
+      "name": "소름끼치다",
+      "category": "공포",
+      "tag": "소름/Noun|끼다/Verb",
+      "value": 7.05
+    },
+    {
+      "name": "살벌하다",
+      "category": "공포",
+      "tag": "살벌/Noun",
+      "value": 6.92
+    },
+    {
+      "name": "아슬아슬하다",
+      "category": "공포",
+      "tag": "아슬아슬/Noun",
+      "value": 3.71
+    },
+    {
+      "name": "무시무시하다",
+      "category": "공포",
+      "tag": "무시/Noun|무시/Noun",
+      "value": 7.43
+    },
+    {
+      "name": "오싹하다",
+      "category": "공포",
+      "tag": "오싹/Noun",
+      "value": 7.45
+    },
+    {
+      "name": "새파래지다",
+      "category": "공포",
+      "tag": "새/Noun|파랗다/Adjective",
+      "value": 7.55
+    },
+    {
+      "name": "섬뜩하다",
+      "category": "공포",
+      "tag": "섬뜩/Adverb",
+      "value": 8.05
+    },
+    {
+      "name": "공포감",
+      "category": "공포",
+      "tag": "공포/Noun|감/Noun",
+      "value": 8.98
+    },
+    {
+      "name": "천만다행이다",
+      "category": "기쁨",
+      "tag": "천만다행/Noun",
+      "value": 6.28
+    },
+    {
+      "name": "웃어넘기다",
+      "category": "기쁨",
+      "tag": "웃다/Verb|넘기다/Verb",
+      "value": 4.62
+    },
+    {
+      "name": "아하하",
+      "category": "기쁨",
+      "tag": "아하하/Adverb",
+      "value": 6.71
+    },
+    {
+      "name": "예쁘다",
+      "category": "기쁨",
+      "tag": "예쁘다/Adjective",
+      "value": 6.87
+    },
+    {
+      "name": "우아하다",
+      "category": "기쁨",
+      "tag": "우아하다/Adjective",
+      "value": 5.63
+    },
+    {
+      "name": "쌩끗",
+      "category": "기쁨",
+      "tag": "쌩끗/Adverb",
+      "value": 5.92
+    },
+    {
+      "name": "하하",
+      "category": "기쁨",
+      "tag": "하하/Noun",
+      "value": 6.79
+    },
+    {
+      "name": "따스하다",
+      "category": "기쁨",
+      "tag": "따스하다/Adjective",
+      "value": 6
+    },
+    {
+      "name": "카핫핫핫",
+      "category": "기쁨",
+      "tag": "카핫핫/Noun",
+      "value": 6.73
+    },
+    {
+      "name": "가뿐하다",
+      "category": "기쁨",
+      "tag": "가뿐하다/Adjective",
+      "value": 5.36
+    },
+    {
+      "name": "히히",
+      "category": "기쁨",
+      "tag": "히/Adverb|히/Adverb",
+      "value": 5.76
+    },
+    {
+      "name": "끼득끼득",
+      "category": "기쁨",
+      "tag": "끼득끼득/Adverb",
+      "value": 5.53
+    },
+    {
+      "name": "편안하다",
+      "category": "기쁨",
+      "tag": "편안하다/Adjective",
+      "value": 6.18
+    },
+    {
+      "name": "근사하다",
+      "category": "기쁨",
+      "tag": "근사/Noun",
+      "value": 6.03
+    },
+    {
+      "name": "어여쁘다",
+      "category": "기쁨",
+      "tag": "어여쁘다/Adjective",
+      "value": 6.08
+    },
+    {
+      "name": "보기좋다",
+      "category": "기쁨",
+      "tag": "보기/Noun|좋다/Adjective",
+      "value": 6.06
+    },
+    {
+      "name": "빙그레",
+      "category": "기쁨",
+      "tag": "빙그레/Noun",
+      "value": 5.81
+    },
+    {
+      "name": "친숙하다",
+      "category": "기쁨",
+      "tag": "친숙하/Noun|다/Josa",
+      "value": 5.07
+    },
+    {
+      "name": "이힛힛힛",
+      "category": "기쁨",
+      "tag": "이힛힛/Noun",
+      "value": 6.04
+    },
+    {
+      "name": "방그레",
+      "category": "기쁨",
+      "tag": "방그레/Noun",
+      "value": 6.98
+    },
+    {
+      "name": "상쾌하다",
+      "category": "기쁨",
+      "tag": "상쾌하다/Adjective",
+      "value": 6.71
+    },
+    {
+      "name": "후련하다",
+      "category": "기쁨",
+      "tag": "후련하/Noun|다/Josa",
+      "value": 6.78
+    },
+    {
+      "name": "히죽거리다",
+      "category": "기쁨",
+      "tag": "히죽/Noun|거리/Noun|다/Josa",
+      "value": 5.61
+    },
+    {
+      "name": "히죽거리다",
+      "category": "기쁨",
+      "tag": "히죽/Noun|거리/Noun|다/Josa",
+      "value": 5.61
+    },
+    {
+      "name": "대견하다",
+      "category": "기쁨",
+      "tag": "대견하/Noun|다/Josa",
+      "value": 6.56
+    },
+    {
+      "name": "방긋",
+      "category": "기쁨",
+      "tag": "방긋/Noun",
+      "value": 6.5
+    },
+    {
+      "name": "킬킬거리다",
+      "category": "기쁨",
+      "tag": "킬킬거리/Noun|다/Josa",
+      "value": 5.48
+    },
+    {
+      "name": "따뜻하다",
+      "category": "기쁨",
+      "tag": "따뜻하다/Adjective",
+      "value": 5.95
+    },
+    {
+      "name": "상큼하다",
+      "category": "기쁨",
+      "tag": "상큼/Noun",
+      "value": 5.45
+    },
+    {
+      "name": "허허",
+      "category": "기쁨",
+      "tag": "허허/Adverb",
+      "value": 4.86
+    },
+    {
+      "name": "두근거리다",
+      "category": "기쁨",
+      "tag": "두근거리다/Adjective",
+      "value": 6.4
+    },
+    {
+      "name": "흐뭇하다",
+      "category": "기쁨",
+      "tag": "흐뭇하다/Adjective",
+      "value": 6.91
+    },
+    {
+      "name": "감복하다",
+      "category": "기쁨",
+      "tag": "감복/Noun",
+      "value": 6.64
+    },
+    {
+      "name": "친근하다",
+      "category": "기쁨",
+      "tag": "친근하다/Adjective",
+      "value": 5.79
+    },
+    {
+      "name": "쾌적하다",
+      "category": "기쁨",
+      "tag": "쾌적/Noun",
+      "value": 6.61
+    },
+    {
+      "name": "자부하다",
+      "category": "기쁨",
+      "tag": "자부/Noun",
+      "value": 6.15
+    },
+    {
+      "name": "감미롭다",
+      "category": "기쁨",
+      "tag": "감미롭/Noun|다/Josa",
+      "value": 6.03
+    },
+    {
+      "name": "낭만적",
+      "category": "기쁨",
+      "tag": "낭만/Noun|적/Suffix",
+      "value": 6.69
+    },
+    {
+      "name": "껄껄껄",
+      "category": "기쁨",
+      "tag": "껄껄/Noun",
+      "value": 6.58
+    },
+    {
+      "name": "깔깔깔깔",
+      "category": "기쁨",
+      "tag": "깔깔/Noun",
+      "value": 7.28
+    },
+    {
+      "name": "원더풀",
+      "category": "기쁨",
+      "tag": "원더풀/Noun",
+      "value": 7.17
+    },
+    {
+      "name": "얼씨구",
+      "category": "기쁨",
+      "tag": "얼씨구/Noun",
+      "value": 6.6
+    },
+    {
+      "name": "감흥",
+      "category": "기쁨",
+      "tag": "감흥/Noun",
+      "value": 5.83
+    },
+    {
+      "name": "좋다",
+      "category": "기쁨",
+      "tag": "좋다/Adjective",
+      "value": 7.41
+    },
+    {
+      "name": "만족하다",
+      "category": "기쁨",
+      "tag": "만족/Noun",
+      "value": 7.38
+    },
+    {
+      "name": "감개무량하다",
+      "category": "기쁨",
+      "tag": "감개/Noun|무량/Noun",
+      "value": 7.23
+    },
+    {
+      "name": "으쓱하다",
+      "category": "기쁨",
+      "tag": "으쓱/Noun",
+      "value": 6.22
+    },
+    {
+      "name": "경쾌하다",
+      "category": "기쁨",
+      "tag": "경쾌/Noun",
+      "value": 7.42
+    },
+    {
+      "name": "까르르",
+      "category": "기쁨",
+      "tag": "까르르/Noun",
+      "value": 7.17
+    },
+    {
+      "name": "감회",
+      "category": "기쁨",
+      "tag": "감회/Noun",
+      "value": 4.58
+    },
+    {
+      "name": "방글방글",
+      "category": "기쁨",
+      "tag": "방글방글/Adverb",
+      "value": 6.97
+    },
+    {
+      "name": "달갑다",
+      "category": "기쁨",
+      "tag": "달갑/Noun|다/Josa",
+      "value": 6.12
+    },
+    {
+      "name": "속시원하다",
+      "category": "기쁨",
+      "tag": "속/Noun|시원하다/Adjective",
+      "value": 7.34
+    },
+    {
+      "name": "반갑다",
+      "category": "기쁨",
+      "tag": "반갑다/Adjective",
+      "value": 7.45
+    },
+    {
+      "name": "웃다",
+      "category": "기쁨",
+      "tag": "웃다/Verb",
+      "value": 7.16
+    },
+    {
+      "name": "싱글벙글하다",
+      "category": "기쁨",
+      "tag": "싱글벙글/Noun",
+      "value": 7.56
+    },
+    {
+      "name": "콩닥거리다",
+      "category": "기쁨",
+      "tag": "콩닥/Noun|거리/Noun|다/Josa",
+      "value": 6.15
+    },
+    {
+      "name": "으하하하",
+      "category": "기쁨",
+      "tag": "으/Adverb|하하/Noun",
+      "value": 7.43
+    },
+    {
+      "name": "고맙다",
+      "category": "기쁨",
+      "tag": "고맙다/Adjective",
+      "value": 7.26
+    },
+    {
+      "name": "흐흐",
+      "category": "기쁨",
+      "tag": "흐흐/Noun",
+      "value": 4.67
+    },
+    {
+      "name": "재미있다",
+      "category": "기쁨",
+      "tag": "재미있다/Adjective",
+      "value": 7.29
+    },
+    {
+      "name": "흡족하다",
+      "category": "기쁨",
+      "tag": "흡족/Noun",
+      "value": 7.18
+    },
+    {
+      "name": "낄낄낄",
+      "category": "기쁨",
+      "tag": "낄낄/Noun",
+      "value": 5.74
+    },
+    {
+      "name": "기분좋다",
+      "category": "기쁨",
+      "tag": "기분/Noun|좋다/Adjective",
+      "value": 7.97
+    },
+    {
+      "name": "희희낙락하다",
+      "category": "기쁨",
+      "tag": "희희낙락/Noun",
+      "value": 7.14
+    },
+    {
+      "name": "설레다",
+      "category": "기쁨",
+      "tag": "설레다/Adjective",
+      "value": 6.72
+    },
+    {
+      "name": "후후",
+      "category": "기쁨",
+      "tag": "후후/Exclamation",
+      "value": 4.64
+    },
+    {
+      "name": "뿌듯하다",
+      "category": "기쁨",
+      "tag": "뿌듯하다/Adjective",
+      "value": 7.24
+    },
+    {
+      "name": "통쾌하다",
+      "category": "기쁨",
+      "tag": "통쾌/Noun",
+      "value": 7.77
+    },
+    {
+      "name": "감동하다",
+      "category": "기쁨",
+      "tag": "감동/Noun",
+      "value": 7.48
+    },
+    {
+      "name": "훌륭하다",
+      "category": "기쁨",
+      "tag": "훌륭하다/Adjective",
+      "value": 6.92
+    },
+    {
+      "name": "즐겁다",
+      "category": "기쁨",
+      "tag": "즐겁다/Adjective",
+      "value": 8.26
+    },
+    {
+      "name": "유쾌하다",
+      "category": "기쁨",
+      "tag": "유쾌하/Noun|다/Josa",
+      "value": 7.65
+    },
+    {
+      "name": "감사하다",
+      "category": "기쁨",
+      "tag": "감사/Noun",
+      "value": 7.24
+    },
+    {
+      "name": "신바람나다",
+      "category": "기쁨",
+      "tag": "신바람/Noun|나다/Verb",
+      "value": 7.86
+    },
+    {
+      "name": "씰룩거리다",
+      "category": "기쁨",
+      "tag": "씰룩/Adverb|거리/Noun|다/Josa",
+      "value": 4.42
+    },
+    {
+      "name": "사랑스럽다",
+      "category": "기쁨",
+      "tag": "사랑스럽다/Adjective",
+      "value": 7.95
+    },
+    {
+      "name": "감격하다",
+      "category": "기쁨",
+      "tag": "감격/Noun",
+      "value": 7.81
+    },
+    {
+      "name": "흥겹다",
+      "category": "기쁨",
+      "tag": "흥겹/Noun|다/Josa",
+      "value": 7.72
+    },
+    {
+      "name": "신나다",
+      "category": "기쁨",
+      "tag": "신다/Verb",
+      "value": 8.39
+    },
+    {
+      "name": "기쁘다",
+      "category": "기쁨",
+      "tag": "기쁘다/Adjective",
+      "value": 8.8
+    },
+    {
+      "name": "신명나다",
+      "category": "기쁨",
+      "tag": "신명/Noun|나다/Verb",
+      "value": 8.13
+    },
+    {
+      "name": "함박웃음",
+      "category": "기쁨",
+      "tag": "함박/Noun|웃음/Noun",
+      "value": 8.68
+    },
+    {
+      "name": "행복하다",
+      "category": "기쁨",
+      "tag": "행복하다/Adjective",
+      "value": 9.02
+    },
+    {
+      "name": "머쓱하다",
+      "category": "기타",
+      "tag": "머쓱하다/Adjective",
+      "value": 5.56
+    },
+    {
+      "name": "멋쩍다",
+      "category": "기타",
+      "tag": "멋쩍/Noun|다/Josa",
+      "value": 6.39
+    },
+    {
+      "name": "쭈뼛거리다",
+      "category": "기타",
+      "tag": "쭈뼛거리다/Adjective",
+      "value": 6.19
+    },
+    {
+      "name": "겸연쩍다",
+      "category": "기타",
+      "tag": "겸연/Noun|쩍/Noun|다/Josa",
+      "value": 6.33
+    },
+    {
+      "name": "무안하다",
+      "category": "기타",
+      "tag": "무안/Noun",
+      "value": 6.57
+    },
+    {
+      "name": "노파심",
+      "category": "기타",
+      "tag": "노파/Noun|심/Noun",
+      "value": 6.92
+    },
+    {
+      "name": "앗",
+      "category": "놀람",
+      "tag": "앗/Noun",
+      "value": 6.68
+    },
+    {
+      "name": "헉",
+      "category": "놀람",
+      "tag": "헉/Adverb",
+      "value": 6.74
+    },
+    {
+      "name": "얼떨떨하다",
+      "category": "놀람",
+      "tag": "얼/Noun|떨다/Verb|떨다/Verb",
+      "value": 5.98
+    },
+    {
+      "name": "아이쿠",
+      "category": "놀람",
+      "tag": "아이쿠/Exclamation",
+      "value": 5.89
+    },
+    {
+      "name": "이상하다",
+      "category": "놀람",
+      "tag": "이상하다/Adjective",
+      "value": 4.91
+    },
+    {
+      "name": "아뿔싸",
+      "category": "놀람",
+      "tag": "아뿔싸/Noun",
+      "value": 6.65
+    },
+    {
+      "name": "깜짝",
+      "category": "놀람",
+      "tag": "깜짝/Noun",
+      "value": 7.58
+    },
+    {
+      "name": "아차",
+      "category": "놀람",
+      "tag": "아차/Noun",
+      "value": 5.86
+    },
+    {
+      "name": "으악",
+      "category": "놀람",
+      "tag": "으악/Adverb",
+      "value": 7.3
+    },
+    {
+      "name": "기막히다",
+      "category": "놀람",
+      "tag": "기막히다/Adjective",
+      "value": 6.89
+    },
+    {
+      "name": "아연실색하다",
+      "category": "놀람",
+      "tag": "아연/Noun|실색/Noun",
+      "value": 7.01
+    },
+    {
+      "name": "어리둥절하다",
+      "category": "놀람",
+      "tag": "어리다/Verb|둥/Noun|절하/Noun|다/Josa",
+      "value": 5.51
+    },
+    {
+      "name": "만만찮다",
+      "category": "놀람",
+      "tag": "만만찮/Noun|다/Josa",
+      "value": 5.26
+    },
+    {
+      "name": "움찔하다",
+      "category": "놀람",
+      "tag": "움찔/Noun",
+      "value": 6.22
+    },
+    {
+      "name": "흠칫하다",
+      "category": "놀람",
+      "tag": "흠칫/Noun",
+      "value": 6.79
+    },
+    {
+      "name": "당혹하다",
+      "category": "놀람",
+      "tag": "당혹/Noun",
+      "value": 6.37
+    },
+    {
+      "name": "기묘하다",
+      "category": "놀람",
+      "tag": "기묘/Noun",
+      "value": 6.35
+    },
+    {
+      "name": "뜨금하다",
+      "category": "놀람",
+      "tag": "뜨다/Verb|금/Noun",
+      "value": 6.41
+    },
+    {
+      "name": "까무러치다",
+      "category": "놀람",
+      "tag": "까무러치/Noun|다/Josa",
+      "value": 8.35
+    },
+    {
+      "name": "놀랍다",
+      "category": "놀람",
+      "tag": "놀라다/Verb",
+      "value": 8.4
+    },
+    {
+      "name": "급작스럽다",
+      "category": "놀람",
+      "tag": "급작/Noun",
+      "value": 7.31
+    },
+    {
+      "name": "갑작스럽다",
+      "category": "놀람",
+      "tag": "갑작스럽다/Adjective",
+      "value": 7.54
+    },
+    {
+      "name": "기겁하다",
+      "category": "놀람",
+      "tag": "기겁/Noun",
+      "value": 7.63
+    },
+    {
+      "name": "기이하다",
+      "category": "놀람",
+      "tag": "기이/Noun",
+      "value": 6.59
+    },
+    {
+      "name": "경이롭다",
+      "category": "놀람",
+      "tag": "경/Noun|이롭다/Adjective",
+      "value": 7.77
+    },
+    {
+      "name": "당황하다",
+      "category": "놀람",
+      "tag": "당황/Noun",
+      "value": 6.52
+    },
+    {
+      "name": "기절하다",
+      "category": "놀람",
+      "tag": "기절/Noun",
+      "value": 8.13
+    },
+    {
+      "name": "휘둥그레지다",
+      "category": "놀람",
+      "tag": "휘둥그레지/Noun|다/Josa",
+      "value": 8.25
+    },
+    {
+      "name": "뜨악하다",
+      "category": "놀람",
+      "tag": "뜨다/Verb|악/Noun",
+      "value": 7.79
+    },
+    {
+      "name": "기상천외",
+      "category": "놀람",
+      "tag": "기상/Noun|천외/Noun",
+      "value": 8.16
+    },
+    {
+      "name": "경악하다",
+      "category": "놀람",
+      "tag": "경악/Noun",
+      "value": 8.46
+    },
+    {
+      "name": "쇼킹하다",
+      "category": "놀람",
+      "tag": "쇼킹/Noun",
+      "value": 8.37
+    },
+    {
+      "name": "기절초풍하다",
+      "category": "놀람",
+      "tag": "기절/Noun|초/Noun|풍/Adverb",
+      "value": 8.81
+    },
+    {
+      "name": "철렁하다",
+      "category": "놀람",
+      "tag": "철렁/Noun",
+      "value": 7.47
+    },
+    {
+      "name": "충격적",
+      "category": "놀람",
+      "tag": "충격/Noun|적/Suffix",
+      "value": 8.49
+    },
+    {
+      "name": "발칙하다",
+      "category": "분노",
+      "tag": "발칙하/Noun|다/Josa",
+      "value": 6.99
+    },
+    {
+      "name": "아이씨",
+      "category": "분노",
+      "tag": "아이/Noun|씨/Suffix",
+      "value": 5.66
+    },
+    {
+      "name": "아으",
+      "category": "분노",
+      "tag": "아으/Exclamation",
+      "value": 5.69
+    },
+    {
+      "name": "그자식",
+      "category": "분노",
+      "tag": "그/Determiner|자식/Noun",
+      "value": 5.41
+    },
+    {
+      "name": "미친개",
+      "category": "분노",
+      "tag": "미치다/Adjective|개/Noun",
+      "value": 6.67
+    },
+    {
+      "name": "저놈",
+      "category": "분노",
+      "tag": "저/Determiner|놈/Noun",
+      "value": 5.3
+    },
+    {
+      "name": "웬수",
+      "category": "분노",
+      "tag": "웬수/Noun",
+      "value": 5.89
+    },
+    {
+      "name": "네놈",
+      "category": "분노",
+      "tag": "네/Determiner|놈/Noun",
+      "value": 5.15
+    },
+    {
+      "name": "니미",
+      "category": "분노",
+      "tag": "니미/Noun",
+      "value": 6.76
+    },
+    {
+      "name": "야박하다",
+      "category": "분노",
+      "tag": "야박/Noun",
+      "value": 5.05
+    },
+    {
+      "name": "씨부렁거리다",
+      "category": "분노",
+      "tag": "씨부렁거리/Noun|다/Josa",
+      "value": 5.99
+    },
+    {
+      "name": "그놈",
+      "category": "분노",
+      "tag": "그/Determiner|놈/Noun",
+      "value": 5.01
+    },
+    {
+      "name": "비아냥거리다",
+      "category": "분노",
+      "tag": "비아/Noun|냥/Josa|거리/Noun|다/Josa",
+      "value": 5.25
+    },
+    {
+      "name": "불만스럽다",
+      "category": "분노",
+      "tag": "불만/Noun",
+      "value": 5.31
+    },
+    {
+      "name": "밉다",
+      "category": "분노",
+      "tag": "밉다/Adjective",
+      "value": 5.55
+    },
+    {
+      "name": "약오르다",
+      "category": "분노",
+      "tag": "약/Noun|오르다/Noun",
+      "value": 5.92
+    },
+    {
+      "name": "얄밉다",
+      "category": "분노",
+      "tag": "얄밉다/Adjective",
+      "value": 4.56
+    },
+    {
+      "name": "속썩이다",
+      "category": "분노",
+      "tag": "속썩/Noun",
+      "value": 5.25
+    },
+    {
+      "name": "나쁘다",
+      "category": "분노",
+      "tag": "나쁘다/Adjective",
+      "value": 5.18
+    },
+    {
+      "name": "잡놈",
+      "category": "분노",
+      "tag": "잡놈/Noun",
+      "value": 6.68
+    },
+    {
+      "name": "싸가지",
+      "category": "분노",
+      "tag": "싸가지/Noun",
+      "value": 5.86
+    },
+    {
+      "name": "원망하다",
+      "category": "분노",
+      "tag": "원망/Noun",
+      "value": 6.45
+    },
+    {
+      "name": "이새끼",
+      "category": "분노",
+      "tag": "이/Determiner|새끼/Noun",
+      "value": 6.75
+    },
+    {
+      "name": "기집년",
+      "category": "분노",
+      "tag": "기집년/Noun",
+      "value": 6
+    },
+    {
+      "name": "신경질적",
+      "category": "분노",
+      "tag": "신경질/Noun|적/Suffix",
+      "value": 6.52
+    },
+    {
+      "name": "흥분하다",
+      "category": "분노",
+      "tag": "흥분/Noun",
+      "value": 6.72
+    },
+    {
+      "name": "버럭",
+      "category": "분노",
+      "tag": "버럭/Noun",
+      "value": 6.79
+    },
+    {
+      "name": "기분나쁘다",
+      "category": "분노",
+      "tag": "기분/Noun|나쁘다/Adjective",
+      "value": 6.17
+    },
+    {
+      "name": "으이구",
+      "category": "분노",
+      "tag": "으이/Adverb|구/Noun",
+      "value": 3.53
+    },
+    {
+      "name": "저년",
+      "category": "분노",
+      "tag": "저년/Noun",
+      "value": 6.86
+    },
+    {
+      "name": "불만족하다",
+      "category": "분노",
+      "tag": "불만족/Noun",
+      "value": 4.79
+    },
+    {
+      "name": "제기랄",
+      "category": "분노",
+      "tag": "제기랄/Noun",
+      "value": 6.61
+    },
+    {
+      "name": "어이없다",
+      "category": "분노",
+      "tag": "어이/Noun|없다/Adjective",
+      "value": 4.55
+    },
+    {
+      "name": "네년",
+      "category": "분노",
+      "tag": "네/Determiner|년/Noun",
+      "value": 6.52
+    },
+    {
+      "name": "우라질",
+      "category": "분노",
+      "tag": "우/Adverb|라/Josa|질/Noun",
+      "value": 7.29
+    },
+    {
+      "name": "비딱하다",
+      "category": "분노",
+      "tag": "비/Noun|딱하다/Adjective",
+      "value": 4.89
+    },
+    {
+      "name": "굴욕감",
+      "category": "분노",
+      "tag": "굴욕/Noun|감/Noun",
+      "value": 6.48
+    },
+    {
+      "name": "심술궂다",
+      "category": "분노",
+      "tag": "심술궂/Noun|다/Josa",
+      "value": 4.47
+    },
+    {
+      "name": "빌어먹을",
+      "category": "분노",
+      "tag": "빌어먹을/Noun",
+      "value": 6.89
+    },
+    {
+      "name": "그년",
+      "category": "분노",
+      "tag": "그/Determiner|년/Noun",
+      "value": 6.83
+    },
+    {
+      "name": "불유쾌하다",
+      "category": "분노",
+      "tag": "불유쾌/Noun",
+      "value": 5.33
+    },
+    {
+      "name": "멸시당하다",
+      "category": "분노",
+      "tag": "멸시/Noun|당하다/Adjective",
+      "value": 7.13
+    },
+    {
+      "name": "치욕적",
+      "category": "분노",
+      "tag": "치욕/Noun|적/Suffix",
+      "value": 6.97
+    },
+    {
+      "name": "지랄하다",
+      "category": "분노",
+      "tag": "지랄/Noun",
+      "value": 7.11
+    },
+    {
+      "name": "쌍놈",
+      "category": "분노",
+      "tag": "쌍놈/Noun",
+      "value": 7.52
+    },
+    {
+      "name": "심통",
+      "category": "분노",
+      "tag": "심통/Noun",
+      "value": 5.21
+    },
+    {
+      "name": "모멸감",
+      "category": "분노",
+      "tag": "모멸/Noun|감/Noun",
+      "value": 7.22
+    },
+    {
+      "name": "치사하다",
+      "category": "분노",
+      "tag": "치사/Noun",
+      "value": 5.05
+    },
+    {
+      "name": "못되다",
+      "category": "분노",
+      "tag": "못/VerbPrefix|되다/Verb",
+      "value": 4.95
+    },
+    {
+      "name": "질투하다",
+      "category": "분노",
+      "tag": "질투/Noun",
+      "value": 5.26
+    },
+    {
+      "name": "웃음거리",
+      "category": "분노",
+      "tag": "웃음/Noun|거리/Noun",
+      "value": 5.25
+    },
+    {
+      "name": "언짢다",
+      "category": "분노",
+      "tag": "언짢/Noun|다/Josa",
+      "value": 4.47
+    },
+    {
+      "name": "진노하다",
+      "category": "분노",
+      "tag": "진노/Noun",
+      "value": 8.03
+    },
+    {
+      "name": "격해지다",
+      "category": "분노",
+      "tag": "격해지다/Adjective",
+      "value": 7.07
+    },
+    {
+      "name": "짜증나다",
+      "category": "분노",
+      "tag": "짜증/Noun|나다/Verb",
+      "value": 6.57
+    },
+    {
+      "name": "옘병할",
+      "category": "분노",
+      "tag": "옘병할/Noun",
+      "value": 7.82
+    },
+    {
+      "name": "삐치다",
+      "category": "분노",
+      "tag": "삐치/Noun|다/Josa",
+      "value": 3.84
+    },
+    {
+      "name": "개새끼",
+      "category": "분노",
+      "tag": "개새끼/Noun",
+      "value": 8.22
+    },
+    {
+      "name": "갈기갈기",
+      "category": "분노",
+      "tag": "갈기갈기/Noun",
+      "value": 7.48
+    },
+    {
+      "name": "무시당하다",
+      "category": "분노",
+      "tag": "무시/Noun|당하다/Adjective",
+      "value": 6.23
+    },
+    {
+      "name": "씩씩거리다",
+      "category": "분노",
+      "tag": "씩씩/Adverb|거리/Noun|다/Josa",
+      "value": 6.84
+    },
+    {
+      "name": "격양되다",
+      "category": "분노",
+      "tag": "격양되/Noun|다/Josa",
+      "value": 6.71
+    },
+    {
+      "name": "괘씸하다",
+      "category": "분노",
+      "tag": "괘씸하/Noun|다/Josa",
+      "value": 6.8
+    },
+    {
+      "name": "쌍년",
+      "category": "분노",
+      "tag": "쌍년/Noun",
+      "value": 8.18
+    },
+    {
+      "name": "모욕적",
+      "category": "분노",
+      "tag": "모욕/Noun|적/Suffix",
+      "value": 7.08
+    },
+    {
+      "name": "의심스럽다",
+      "category": "분노",
+      "tag": "의심/Noun",
+      "value": 3.99
+    },
+    {
+      "name": "개자식",
+      "category": "분노",
+      "tag": "개자식/Noun",
+      "value": 7.87
+    },
+    {
+      "name": "씨부랄",
+      "category": "분노",
+      "tag": "씨부랄/Noun",
+      "value": 8.26
+    },
+    {
+      "name": "울화통",
+      "category": "분노",
+      "tag": "울화통/Noun",
+      "value": 7.76
+    },
+    {
+      "name": "격앙되다",
+      "category": "분노",
+      "tag": "격앙/Noun",
+      "value": 6.82
+    },
+    {
+      "name": "치밀어오르다",
+      "category": "분노",
+      "tag": "치밀/Noun|어/Noun|오르다/Noun",
+      "value": 7.66
+    },
+    {
+      "name": "씹새끼",
+      "category": "분노",
+      "tag": "씹다/Verb|새끼/Noun",
+      "value": 8.44
+    },
+    {
+      "name": "복수심",
+      "category": "분노",
+      "tag": "복수심/Noun",
+      "value": 8.17
+    },
+    {
+      "name": "치떨리다",
+      "category": "분노",
+      "tag": "치/Noun|떨리다/Verb",
+      "value": 8.06
+    },
+    {
+      "name": "분하다",
+      "category": "분노",
+      "tag": "불다/Verb",
+      "value": 8.33
+    },
+    {
+      "name": "뾰루퉁하다",
+      "category": "분노",
+      "tag": "뾰루퉁하/Noun|다/Josa",
+      "value": 2.8
+    },
+    {
+      "name": "노여워하다",
+      "category": "분노",
+      "tag": "노/Noun|여/Josa|워/Noun",
+      "value": 7.73
+    },
+    {
+      "name": "분개하다",
+      "category": "분노",
+      "tag": "분개/Noun",
+      "value": 8.46
+    },
+    {
+      "name": "격분하다",
+      "category": "분노",
+      "tag": "격분/Noun",
+      "value": 8.06
+    },
+    {
+      "name": "분통터지다",
+      "category": "분노",
+      "tag": "분통/Noun|터지다/Verb",
+      "value": 8.25
+    },
+    {
+      "name": "증오하다",
+      "category": "분노",
+      "tag": "증오/Noun",
+      "value": 8.41
+    },
+    {
+      "name": "분노하다",
+      "category": "분노",
+      "tag": "분노/Noun",
+      "value": 9.04
+    },
+    {
+      "name": "격노하다",
+      "category": "분노",
+      "tag": "격노/Noun",
+      "value": 8.7
+    },
+    {
+      "name": "개쌍년",
+      "category": "분노",
+      "tag": "개쌍년/Noun",
+      "value": 9.04
+    },
+    {
+      "name": "기운없다",
+      "category": "슬픔",
+      "tag": "기운/Noun|없다/Adjective",
+      "value": 4.37
+    },
+    {
+      "name": "아쉽다",
+      "category": "슬픔",
+      "tag": "아쉽다/Adjective",
+      "value": 4.55
+    },
+    {
+      "name": "흑흑",
+      "category": "슬픔",
+      "tag": "흑/Adverb|흑/Adverb",
+      "value": 6.54
+    },
+    {
+      "name": "안타깝다",
+      "category": "슬픔",
+      "tag": "안타깝다/Adjective",
+      "value": 4.79
+    },
+    {
+      "name": "먹먹하다",
+      "category": "슬픔",
+      "tag": "먹다/Verb|먹다/Verb",
+      "value": 6.15
+    },
+    {
+      "name": "절실하다",
+      "category": "슬픔",
+      "tag": "절실/Noun",
+      "value": 5.24
+    },
+    {
+      "name": "기구하다",
+      "category": "슬픔",
+      "tag": "기구/Noun",
+      "value": 5.81
+    },
+    {
+      "name": "으앙",
+      "category": "슬픔",
+      "tag": "으앙/Adverb",
+      "value": 5.7
+    },
+    {
+      "name": "아이고",
+      "category": "슬픔",
+      "tag": "아이고/Exclamation",
+      "value": 5.54
+    },
+    {
+      "name": "죄책감",
+      "category": "슬픔",
+      "tag": "죄책감/Noun",
+      "value": 6.64
+    },
+    {
+      "name": "유감스럽다",
+      "category": "슬픔",
+      "tag": "유감/Noun",
+      "value": 5.89
+    },
+    {
+      "name": "고달프다",
+      "category": "슬픔",
+      "tag": "고달프/Noun|다/Josa",
+      "value": 5.66
+    },
+    {
+      "name": "허무하다",
+      "category": "슬픔",
+      "tag": "허무/Noun",
+      "value": 5.42
+    },
+    {
+      "name": "자포자기하다",
+      "category": "슬픔",
+      "tag": "자포자기/Noun",
+      "value": 5.24
+    },
+    {
+      "name": "아휴",
+      "category": "슬픔",
+      "tag": "아/Exclamation|휴/Exclamation",
+      "value": 4.49
+    },
+    {
+      "name": "안쓰럽다",
+      "category": "슬픔",
+      "tag": "안쓰럽/Noun|다/Josa",
+      "value": 5.38
+    },
+    {
+      "name": "그리워하다",
+      "category": "슬픔",
+      "tag": "그리워하다/Verb",
+      "value": 6.29
+    },
+    {
+      "name": "청승맞다",
+      "category": "슬픔",
+      "tag": "청승/Noun|맞다/Verb",
+      "value": 5.34
+    },
+    {
+      "name": "탄복하다",
+      "category": "슬픔",
+      "tag": "탄복/Noun",
+      "value": 6.26
+    },
+    {
+      "name": "쓸쓸하다",
+      "category": "슬픔",
+      "tag": "쓸쓸하다/Adjective",
+      "value": 5.91
+    },
+    {
+      "name": "초라하다",
+      "category": "슬픔",
+      "tag": "초라하다/Adjective",
+      "value": 5.49
+    },
+    {
+      "name": "간절하다",
+      "category": "슬픔",
+      "tag": "간절/Noun",
+      "value": 4.95
+    },
+    {
+      "name": "좌절되다",
+      "category": "슬픔",
+      "tag": "좌절/Noun",
+      "value": 6.62
+    },
+    {
+      "name": "곤욕스럽다",
+      "category": "슬픔",
+      "tag": "곤욕/Noun",
+      "value": 4.62
+    },
+    {
+      "name": "착잡하다",
+      "category": "슬픔",
+      "tag": "착잡/Noun",
+      "value": 5.45
+    },
+    {
+      "name": "적적하다",
+      "category": "슬픔",
+      "tag": "적적/Noun",
+      "value": 5.06
+    },
+    {
+      "name": "고독하다",
+      "category": "슬픔",
+      "tag": "고독/Noun",
+      "value": 6.29
+    },
+    {
+      "name": "속상하다",
+      "category": "슬픔",
+      "tag": "속상하다/Adjective",
+      "value": 6.46
+    },
+    {
+      "name": "낙망하다",
+      "category": "슬픔",
+      "tag": "낙망/Noun",
+      "value": 6.07
+    },
+    {
+      "name": "송구하다",
+      "category": "슬픔",
+      "tag": "송구/Noun",
+      "value": 4.86
+    },
+    {
+      "name": "우울하다",
+      "category": "슬픔",
+      "tag": "우울하다/Adjective",
+      "value": 7.23
+    },
+    {
+      "name": "낙심하다",
+      "category": "슬픔",
+      "tag": "낙심/Noun",
+      "value": 6.42
+    },
+    {
+      "name": "절절하다",
+      "category": "슬픔",
+      "tag": "절절/Noun",
+      "value": 5.98
+    },
+    {
+      "name": "외롭다",
+      "category": "슬픔",
+      "tag": "외롭다/Adjective",
+      "value": 6.87
+    },
+    {
+      "name": "한숨짓다",
+      "category": "슬픔",
+      "tag": "한숨/Noun|짓다/Verb",
+      "value": 5.25
+    },
+    {
+      "name": "울상",
+      "category": "슬픔",
+      "tag": "울상/Noun",
+      "value": 6.39
+    },
+    {
+      "name": "미안하다",
+      "category": "슬픔",
+      "tag": "미안하다/Adjective",
+      "value": 5.04
+    },
+    {
+      "name": "탄식하다",
+      "category": "슬픔",
+      "tag": "탄식/Noun",
+      "value": 6.26
+    },
+    {
+      "name": "심려하다",
+      "category": "슬픔",
+      "tag": "심려/Noun",
+      "value": 5.03
+    },
+    {
+      "name": "창피하다",
+      "category": "슬픔",
+      "tag": "창피하다/Adjective",
+      "value": 4.33
+    },
+    {
+      "name": "찡하다",
+      "category": "슬픔",
+      "tag": "찡/Adverb",
+      "value": 6.67
+    },
+    {
+      "name": "가엾다",
+      "category": "슬픔",
+      "tag": "가엾다/Adjective",
+      "value": 6.26
+    },
+    {
+      "name": "자책하다",
+      "category": "슬픔",
+      "tag": "자책/Noun",
+      "value": 5.28
+    },
+    {
+      "name": "비탄하다",
+      "category": "슬픔",
+      "tag": "비탄/Noun",
+      "value": 6.7
+    },
+    {
+      "name": "괴롭다",
+      "category": "슬픔",
+      "tag": "괴롭다/Adjective",
+      "value": 6.31
+    },
+    {
+      "name": "섭섭하다",
+      "category": "슬픔",
+      "tag": "섭섭하다/Adjective",
+      "value": 5.24
+    },
+    {
+      "name": "아깝다",
+      "category": "슬픔",
+      "tag": "아깝다/Adjective",
+      "value": 4.6
+    },
+    {
+      "name": "절규하다",
+      "category": "슬픔",
+      "tag": "절규/Noun",
+      "value": 7.45
+    },
+    {
+      "name": "휑하다",
+      "category": "슬픔",
+      "tag": "휑하/Noun|다/Josa",
+      "value": 6.22
+    },
+    {
+      "name": "서운하다",
+      "category": "슬픔",
+      "tag": "서다/Verb",
+      "value": 5.89
+    },
+    {
+      "name": "외톨이",
+      "category": "슬픔",
+      "tag": "외톨이/Noun",
+      "value": 7.12
+    },
+    {
+      "name": "공허하다",
+      "category": "슬픔",
+      "tag": "공허/Noun",
+      "value": 5.74
+    },
+    {
+      "name": "암담하다",
+      "category": "슬픔",
+      "tag": "암담/Noun",
+      "value": 5.82
+    },
+    {
+      "name": "망연자실하다",
+      "category": "슬픔",
+      "tag": "망연자실/Noun",
+      "value": 6.74
+    },
+    {
+      "name": "속앓이",
+      "category": "슬픔",
+      "tag": "속/Noun|앓이/Noun",
+      "value": 6.49
+    },
+    {
+      "name": "애끓다",
+      "category": "슬픔",
+      "tag": "애/Noun|끓다/Verb",
+      "value": 5.98
+    },
+    {
+      "name": "씁쓸하다",
+      "category": "슬픔",
+      "tag": "쓰다/Verb|쓸다/Verb",
+      "value": 5.4
+    },
+    {
+      "name": "후회하다",
+      "category": "슬픔",
+      "tag": "후회/Noun",
+      "value": 5.6
+    },
+    {
+      "name": "허탈하다",
+      "category": "슬픔",
+      "tag": "허탈/Noun",
+      "value": 4.59
+    },
+    {
+      "name": "글썽글썽하다",
+      "category": "슬픔",
+      "tag": "글썽/Noun|글썽/Noun",
+      "value": 6.8
+    },
+    {
+      "name": "허전하다",
+      "category": "슬픔",
+      "tag": "허다/Verb|전/Noun",
+      "value": 5.61
+    },
+    {
+      "name": "실망하다",
+      "category": "슬픔",
+      "tag": "실망/Noun",
+      "value": 5.1
+    },
+    {
+      "name": "근심스럽다",
+      "category": "슬픔",
+      "tag": "근심/Noun",
+      "value": 4.82
+    },
+    {
+      "name": "참담하다",
+      "category": "슬픔",
+      "tag": "참담/Noun",
+      "value": 6.71
+    },
+    {
+      "name": "각박하다",
+      "category": "슬픔",
+      "tag": "각박/Noun",
+      "value": 5.87
+    },
+    {
+      "name": "불행하다",
+      "category": "슬픔",
+      "tag": "불행하다/Adjective",
+      "value": 6.81
+    },
+    {
+      "name": "짠하다",
+      "category": "슬픔",
+      "tag": "짜다/Verb",
+      "value": 6.54
+    },
+    {
+      "name": "낭패스럽다",
+      "category": "슬픔",
+      "tag": "낭패/Noun",
+      "value": 5.07
+    },
+    {
+      "name": "울먹이다",
+      "category": "슬픔",
+      "tag": "울/Noun|먹이/Noun|다/Josa",
+      "value": 6.35
+    },
+    {
+      "name": "아련하다",
+      "category": "슬픔",
+      "tag": "아련하다/Adjective",
+      "value": 5.62
+    },
+    {
+      "name": "절절매다",
+      "category": "슬픔",
+      "tag": "절절/Noun|매다/Verb",
+      "value": 5.31
+    },
+    {
+      "name": "숙연하다",
+      "category": "슬픔",
+      "tag": "숙연/Noun",
+      "value": 5.59
+    },
+    {
+      "name": "죄송하다",
+      "category": "슬픔",
+      "tag": "죄송하다/Adjective",
+      "value": 4.88
+    },
+    {
+      "name": "뼈저리다",
+      "category": "슬픔",
+      "tag": "뼈/Noun|저리/Noun|다/Josa",
+      "value": 6.12
+    },
+    {
+      "name": "측은하다",
+      "category": "슬픔",
+      "tag": "측은/Noun",
+      "value": 6.05
+    },
+    {
+      "name": "처참하다",
+      "category": "슬픔",
+      "tag": "처참/Noun",
+      "value": 6.82
+    },
+    {
+      "name": "뭉클하다",
+      "category": "슬픔",
+      "tag": "뭉클하/Noun|다/Josa",
+      "value": 6.58
+    },
+    {
+      "name": "야속하다",
+      "category": "슬픔",
+      "tag": "야속/Noun",
+      "value": 5.73
+    },
+    {
+      "name": "울컥하다",
+      "category": "슬픔",
+      "tag": "울컥/Adverb",
+      "value": 6.47
+    },
+    {
+      "name": "처량하다",
+      "category": "슬픔",
+      "tag": "처량/Noun",
+      "value": 6.07
+    },
+    {
+      "name": "불쌍하다",
+      "category": "슬픔",
+      "tag": "불쌍하다/Adjective",
+      "value": 5.9
+    },
+    {
+      "name": "참회하다",
+      "category": "슬픔",
+      "tag": "참회/Noun",
+      "value": 5.22
+    },
+    {
+      "name": "심란하다",
+      "category": "슬픔",
+      "tag": "심란/Noun",
+      "value": 4.56
+    },
+    {
+      "name": "심각하다",
+      "category": "슬픔",
+      "tag": "심각하다/Adjective",
+      "value": 4.4
+    },
+    {
+      "name": "망연",
+      "category": "슬픔",
+      "tag": "망연/Noun",
+      "value": 6.08
+    },
+    {
+      "name": "애틋하다",
+      "category": "슬픔",
+      "tag": "애틋하/Noun|다/Josa",
+      "value": 5.6
+    },
+    {
+      "name": "절박하다",
+      "category": "슬픔",
+      "tag": "절박/Noun",
+      "value": 5.81
+    },
+    {
+      "name": "처절하다",
+      "category": "슬픔",
+      "tag": "처절/Noun",
+      "value": 6.36
+    },
+    {
+      "name": "음울하다",
+      "category": "슬픔",
+      "tag": "음울/Noun",
+      "value": 6.13
+    },
+    {
+      "name": "부끄럽다",
+      "category": "슬픔",
+      "tag": "부끄럽다/Adjective",
+      "value": 3.99
+    },
+    {
+      "name": "통탄하다",
+      "category": "슬픔",
+      "tag": "통탄/Noun",
+      "value": 7.49
+    },
+    {
+      "name": "눈물겹다",
+      "category": "슬픔",
+      "tag": "눈물/Noun|겹/Noun|다/Josa",
+      "value": 7.04
+    },
+    {
+      "name": "울부짖다",
+      "category": "슬픔",
+      "tag": "울부짖다/Verb",
+      "value": 8.05
+    },
+    {
+      "name": "낙담하다",
+      "category": "슬픔",
+      "tag": "낙담/Noun",
+      "value": 6.21
+    },
+    {
+      "name": "쓴웃음",
+      "category": "슬픔",
+      "tag": "쓴웃음/Noun",
+      "value": 4.27
+    },
+    {
+      "name": "울적하다",
+      "category": "슬픔",
+      "tag": "울적/Noun",
+      "value": 7.08
+    },
+    {
+      "name": "침울하다",
+      "category": "슬픔",
+      "tag": "침울/Noun",
+      "value": 6.97
+    },
+    {
+      "name": "걱정하다",
+      "category": "슬픔",
+      "tag": "걱정/Noun",
+      "value": 4.55
+    },
+    {
+      "name": "주눅들다",
+      "category": "슬픔",
+      "tag": "주눅/Noun|들/Suffix|다/Josa",
+      "value": 4.26
+    },
+    {
+      "name": "애잔하다",
+      "category": "슬픔",
+      "tag": "애잔하다/Adjective",
+      "value": 6.21
+    },
+    {
+      "name": "절망하다",
+      "category": "슬픔",
+      "tag": "절망/Noun",
+      "value": 7.04
+    },
+    {
+      "name": "암울하다",
+      "category": "슬픔",
+      "tag": "암/Noun|울다/Verb",
+      "value": 7.52
+    },
+    {
+      "name": "애달프다",
+      "category": "슬픔",
+      "tag": "애달프/Noun|다/Josa",
+      "value": 7.17
+    },
+    {
+      "name": "비참하다",
+      "category": "슬픔",
+      "tag": "비참/Noun",
+      "value": 6.77
+    },
+    {
+      "name": "복받치다",
+      "category": "슬픔",
+      "tag": "복/Noun|받다/Verb",
+      "value": 7.55
+    },
+    {
+      "name": "사무치다",
+      "category": "슬픔",
+      "tag": "사무/Noun|치/Noun|다/Josa",
+      "value": 7.49
+    },
+    {
+      "name": "침통하다",
+      "category": "슬픔",
+      "tag": "침통/Noun",
+      "value": 6.87
+    },
+    {
+      "name": "한탄하다",
+      "category": "슬픔",
+      "tag": "한/Determiner|탄하/Noun|다/Josa",
+      "value": 6.16
+    },
+    {
+      "name": "상실감",
+      "category": "슬픔",
+      "tag": "상실/Noun|감/Noun",
+      "value": 7.13
+    },
+    {
+      "name": "울다",
+      "category": "슬픔",
+      "tag": "울/Noun|다/Josa",
+      "value": 8.27
+    },
+    {
+      "name": "애처롭다",
+      "category": "슬픔",
+      "tag": "애처롭/Noun|다/Josa",
+      "value": 6.46
+    },
+    {
+      "name": "애석하다",
+      "category": "슬픔",
+      "tag": "애석/Noun",
+      "value": 6.53
+    },
+    {
+      "name": "난처하다",
+      "category": "슬픔",
+      "tag": "난처/Noun",
+      "value": 3.73
+    },
+    {
+      "name": "가슴아프다",
+      "category": "슬픔",
+      "tag": "가슴/Noun|아프다/Adjective",
+      "value": 7.62
+    },
+    {
+      "name": "망막하다",
+      "category": "슬픔",
+      "tag": "망막/Noun",
+      "value": 4.65
+    },
+    {
+      "name": "남부럽다",
+      "category": "슬픔",
+      "tag": "남/Noun|부럽다/Adjective",
+      "value": 3.45
+    },
+    {
+      "name": "서럽다",
+      "category": "슬픔",
+      "tag": "서럽/Noun|다/Josa",
+      "value": 7.38
+    },
+    {
+      "name": "울며불며",
+      "category": "슬픔",
+      "tag": "울며불며/Adverb",
+      "value": 7.73
+    },
+    {
+      "name": "구슬프다",
+      "category": "슬픔",
+      "tag": "구/Noun|슬프다/Adjective",
+      "value": 7.72
+    },
+    {
+      "name": "슬퍼하다",
+      "category": "슬픔",
+      "tag": "슬퍼하다/Verb",
+      "value": 8.46
+    },
+    {
+      "name": "비통하다",
+      "category": "슬픔",
+      "tag": "비통/Noun",
+      "value": 7.92
+    },
+    {
+      "name": "가슴앓이",
+      "category": "슬픔",
+      "tag": "가슴앓이/Noun",
+      "value": 7.75
+    },
+    {
+      "name": "원통하다",
+      "category": "슬픔",
+      "tag": "원통/Noun",
+      "value": 7.82
+    },
+    {
+      "name": "울분",
+      "category": "슬픔",
+      "tag": "울분/Noun",
+      "value": 7.73
+    },
+    {
+      "name": "울분",
+      "category": "슬픔",
+      "tag": "울분/Noun",
+      "value": 7.73
+    },
+    {
+      "name": "애도하다",
+      "category": "슬픔",
+      "tag": "애도/Noun",
+      "value": 8.13
+    },
+    {
+      "name": "애통하다",
+      "category": "슬픔",
+      "tag": "애통/Noun",
+      "value": 8.21
+    },
+    {
+      "name": "냉가슴",
+      "category": "중성",
+      "tag": "냉/Noun|가슴/Noun",
+      "value": 9.21
+    },
+    {
+      "name": "덤덤하다",
+      "category": "중성",
+      "tag": "덤덤/Noun",
+      "value": 8.78
+    },
+    {
+      "name": "각성되다",
+      "category": "중성",
+      "tag": "각성/Noun",
+      "value": 8.35
+    },
+    {
+      "name": "조심스럽다",
+      "category": "중성",
+      "tag": "조심스럽다/Adjective",
+      "value": 9.07
+    },
+    {
+      "name": "어색하다",
+      "category": "지루함",
+      "tag": "어색하다/Adjective",
+      "value": 5.56
+    },
+    {
+      "name": "답답하다",
+      "category": "지루함",
+      "tag": "답답하다/Adjective",
+      "value": 6.94
+    },
+    {
+      "name": "갑갑하다",
+      "category": "지루함",
+      "tag": "갑갑하다/Adjective",
+      "value": 6.55
+    },
+    {
+      "name": "서먹하다",
+      "category": "지루함",
+      "tag": "서다/Verb|먹다/Verb",
+      "value": 5.37
+    },
+    {
+      "name": "심드렁하다",
+      "category": "지루함",
+      "tag": "심드렁하/Noun|다/Josa",
+      "value": 6.46
+    },
+    {
+      "name": "고리타분하다",
+      "category": "지루함",
+      "tag": "고리타/Noun|분/Suffix",
+      "value": 7.81
+    },
+    {
+      "name": "무료하다",
+      "category": "지루함",
+      "tag": "무료/Noun",
+      "value": 8.02
+    },
+    {
+      "name": "신통찮다",
+      "category": "지루함",
+      "tag": "신통찮/Noun|다/Josa",
+      "value": 5.4
+    },
+    {
+      "name": "싫증나다",
+      "category": "지루함",
+      "tag": "싫증/Noun|나다/Verb",
+      "value": 7.86
+    },
+    {
+      "name": "귀찮다",
+      "category": "지루함",
+      "tag": "귀찮다/Adjective",
+      "value": 7.87
+    },
+    {
+      "name": "심심하다",
+      "category": "지루함",
+      "tag": "심심하다/Adjective",
+      "value": 8.65
+    },
+    {
+      "name": "지겹다",
+      "category": "지루함",
+      "tag": "지겹다/Adjective",
+      "value": 8.95
+    },
+    {
+      "name": "재미없다",
+      "category": "지루함",
+      "tag": "재미없다/Adjective",
+      "value": 8.68
+    },
+    {
+      "name": "지긋지긋하다",
+      "category": "지루함",
+      "tag": "지긋지긋/Noun",
+      "value": 8.37
+    },
+    {
+      "name": "지루함하다",
+      "category": "지루함",
+      "tag": "지루하다/Adjective",
+      "value": 9.15
+    },
+    {
+      "name": "따분하다",
+      "category": "지루함",
+      "tag": "따분하다/Adjective",
+      "value": 8.75
+    },
+    {
+      "name": "아야",
+      "category": "통증",
+      "tag": "아야/Noun",
+      "value": 6.3
+    },
+    {
+      "name": "골치아프다",
+      "category": "통증",
+      "tag": "골치/Noun|아프다/Adjective",
+      "value": 5.95
+    },
+    {
+      "name": "지끈거리다",
+      "category": "통증",
+      "tag": "지끈/Noun|거리/Noun|다/Josa",
+      "value": 7.05
+    },
+    {
+      "name": "아프다",
+      "category": "통증",
+      "tag": "아프다/Adjective",
+      "value": 8.27
+    },
+    {
+      "name": "기진맥진하다",
+      "category": "통증",
+      "tag": "기진/Noun|맥진/Noun",
+      "value": 5.47
+    },
+    {
+      "name": "고통스럽다",
+      "category": "통증",
+      "tag": "고통스럽다/Adjective",
+      "value": 8.45
+    },
+    {
+      "name": "부담스럽다",
+      "category": "혐오",
+      "tag": "부담스럽다/Adjective",
+      "value": 4.49
+    },
+    {
+      "name": "찜찜하다",
+      "category": "혐오",
+      "tag": "찜/Noun|찌다/Verb",
+      "value": 4.24
+    },
+    {
+      "name": "느끼하다",
+      "category": "혐오",
+      "tag": "느끼다/Verb",
+      "value": 5.46
+    },
+    {
+      "name": "해괴하다",
+      "category": "혐오",
+      "tag": "해괴/Noun",
+      "value": 6.01
+    },
+    {
+      "name": "꺼림칙하다",
+      "category": "혐오",
+      "tag": "꺼리다/Adjective|칙/Noun",
+      "value": 5.5
+    },
+    {
+      "name": "괴상하다",
+      "category": "혐오",
+      "tag": "괴상/Noun",
+      "value": 6.74
+    },
+    {
+      "name": "꼴불견",
+      "category": "혐오",
+      "tag": "꼴불견/Noun",
+      "value": 6.74
+    },
+    {
+      "name": "느글거리다",
+      "category": "혐오",
+      "tag": "느글거리/Noun|다/Josa",
+      "value": 4.99
+    },
+    {
+      "name": "괴팍하다",
+      "category": "혐오",
+      "tag": "괴팍/Noun",
+      "value": 5.76
+    },
+    {
+      "name": "코웃음치다",
+      "category": "혐오",
+      "tag": "코웃음/Noun|치/Noun|다/Josa",
+      "value": 3.89
+    },
+    {
+      "name": "더럽다",
+      "category": "혐오",
+      "tag": "더럽다/Adjective",
+      "value": 7.12
+    },
+    {
+      "name": "거북하다",
+      "category": "혐오",
+      "tag": "거북/Noun",
+      "value": 6.31
+    },
+    {
+      "name": "가관이다",
+      "category": "혐오",
+      "tag": "가관/Noun",
+      "value": 4.95
+    },
+    {
+      "name": "망측하다",
+      "category": "혐오",
+      "tag": "망측/Noun",
+      "value": 7
+    },
+    {
+      "name": "구역질나다",
+      "category": "혐오",
+      "tag": "구역질/Noun|나다/Verb",
+      "value": 7.81
+    },
+    {
+      "name": "달갑잖다",
+      "category": "혐오",
+      "tag": "달/Noun|가다/Verb",
+      "value": 4.16
+    },
+    {
+      "name": "구질구질하다",
+      "category": "혐오",
+      "tag": "구질구질/Noun",
+      "value": 5.85
+    },
+    {
+      "name": "경박하다",
+      "category": "혐오",
+      "tag": "경박/Noun",
+      "value": 5.57
+    },
+    {
+      "name": "지독하다",
+      "category": "혐오",
+      "tag": "지독/Noun",
+      "value": 5.65
+    },
+    {
+      "name": "넌더리",
+      "category": "혐오",
+      "tag": "넌더리/Noun",
+      "value": 5.83
+    },
+    {
+      "name": "못미덥다",
+      "category": "혐오",
+      "tag": "못/VerbPrefix|밉다/Adjective|덥다/Adjective",
+      "value": 3.69
+    },
+    {
+      "name": "징그럽다",
+      "category": "혐오",
+      "tag": "징/Noun|그렇다/Adjective",
+      "value": 7.83
+    },
+    {
+      "name": "흉측하다",
+      "category": "혐오",
+      "tag": "흉측/Noun",
+      "value": 8.34
+    },
+    {
+      "name": "가소롭다",
+      "category": "혐오",
+      "tag": "가소롭/Noun|다/Josa",
+      "value": 4.82
+    },
+    {
+      "name": "역겹다",
+      "category": "혐오",
+      "tag": "역겹다/Adjective",
+      "value": 8.51
+    },
+    {
+      "name": "감질나다",
+      "category": "흥미",
+      "tag": "감다/Verb",
+      "value": 5.45
+    },
+    {
+      "name": "갈구하다",
+      "category": "흥미",
+      "tag": "갈다/Verb|구/Noun",
+      "value": 6.36
+    },
+    {
+      "name": "반신반의하다",
+      "category": "흥미",
+      "tag": "반신반의/Noun",
+      "value": 4.57
+    },
+    {
+      "name": "충동적",
+      "category": "흥미",
+      "tag": "충동/Noun|적/Suffix",
+      "value": 6.03
+    },
+    {
+      "name": "궁금하다",
+      "category": "흥미",
+      "tag": "궁금하다/Adjective",
+      "value": 7.42
+    },
+    {
+      "name": "섹시하다",
+      "category": "흥미",
+      "tag": "섹시하다/Adjective",
+      "value": 7.16
+    },
+    {
+      "name": "신비롭다",
+      "category": "흥미",
+      "tag": "신비롭/Noun|다/Josa",
+      "value": 7.33
+    },
+    {
+      "name": "갈망하다",
+      "category": "흥미",
+      "tag": "갈망/Noun",
+      "value": 7.36
+    },
+    {
+      "name": "부러워하다",
+      "category": "흥미",
+      "tag": "부러워하다/Adjective",
+      "value": 5.48
+    },
+    {
+      "name": "알쏭달쏭하다",
+      "category": "흥미",
+      "tag": "알쏭달쏭/Noun",
+      "value": 5.87
+    },
+    {
+      "name": "아리송하다",
+      "category": "흥미",
+      "tag": "아리송/Noun",
+      "value": 4.2
+    },
+    {
+      "name": "흥미롭다",
+      "category": "흥미",
+      "tag": "흥미롭다/Adjective",
+      "value": 8.99
+    },
+    {
+      "name": "꺼지다",
+      "category": "혐오",
+      "tag": "꺼지다/Verb",
+      "level": 2
+    },
+    {
+      "name": "노여움",
+      "category": "분노",
+      "tag": "노여움/Noun",
+      "level": 3
+    },
+    {
+      "name": "무기력",
+      "category": "슬픔",
+      "tag": "무기/Noun|력/Suffix",
+      "level": 1
+    },
+    {
+      "name": "태연한",
+      "category": "중성",
+      "tag": "태연/Noun",
+      "level": 1
+    },
+    {
+      "name": "냉소",
+      "category": "혐오",
+      "tag": "냉소/Noun",
+      "level": 1
+    },
+    {
+      "name": "사랑",
+      "category": "기쁨",
+      "tag": "사랑/Noun",
+      "level": 2
+    },
+    {
+      "name": "맥빠지다",
+      "category": "지루함",
+      "tag": "맥/Noun|빠지다/Verb",
+      "level": 1
+    },
+    {
+      "name": "눈물",
+      "category": "슬픔",
+      "tag": "눈물/Noun",
+      "level": 2
+    },
+    {
+      "name": "상처입다",
+      "category": "통증",
+      "tag": "상처/Noun|입다/Verb",
+      "level": 2
+    },
+    {
+      "name": "미치다",
+      "category": "놀람",
+      "tag": "미치다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "사퇴하다",
+      "category": "분노",
+      "tag": "사퇴/Noun|하다/Verb",
+      "level": 2
+    },
+    {
+      "name": "한숨",
+      "category": "슬픔",
+      "tag": "한숨/Noun",
+      "level": 2
+    },
+    {
+      "name": "헛웃음",
+      "category": "분노",
+      "tag": "헛웃음/Noun",
+      "level": 1
+    },
+    {
+      "name": "충격",
+      "category": "놀람",
+      "tag": "충격/Noun",
+      "level": 2
+    },
+    {
+      "name": "이쁘다",
+      "category": "흥미",
+      "tag": "이쁘다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "맛있다",
+      "category": "흥미",
+      "tag": "맛있다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "신난다",
+      "category": "기쁨",
+      "tag": "신난/Noun",
+      "level": 2
+    },
+    {
+      "name": "캬",
+      "category": "기쁨",
+      "tag": "캬/Noun",
+      "level": 1
+    },
+    {
+      "name": "멋지다",
+      "category": "흥미",
+      "tag": "멋지다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "ㄷㄷ",
+      "category": "공포",
+      "tag": "ㄷㄷ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "ㅋㅋ",
+      "category": "기쁨",
+      "tag": "ㅋㅋ/KoreanParticle",
+      "level": 2
+    },
+    {
+      "name": "ㅋ",
+      "category": "기쁨",
+      "tag": "ㅋ/KoreanParticle",
+      "level": 2
+    },
+    {
+      "name": "ㅎㅎ",
+      "category": "기쁨",
+      "tag": "ㅎㅎ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "ㅎ",
+      "category": "기쁨",
+      "tag": "ㅎ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "ㅜㅜ",
+      "category": "슬픔",
+      "tag": "ㅜㅜ/KoreanParticle",
+      "level": 2
+    },
+    {
+      "name": "ㅜ",
+      "category": "슬픔",
+      "tag": "ㅜ/KoreanParticle",
+      "level": 2
+    },
+    {
+      "name": "ㅠㅠ",
+      "category": "슬픔",
+      "tag": "ㅠㅠ/KoreanParticle",
+      "level": 2
+    },
+    {
+      "name": "ㅠ",
+      "category": "슬픔",
+      "tag": "ㅠ/KoreanParticle",
+      "level": 2
+    },
+    {
+      "name": "ㅊㅊ",
+      "category": "기쁨",
+      "tag": "ㅊㅊ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "ㅍㅍ",
+      "category": "흥미",
+      "tag": "ㅍㅍ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "하야",
+      "category": "분노",
+      "tag": "하야/Noun",
+      "level": 2
+    },
+    {
+      "name": "경탄",
+      "category": "놀람",
+      "tag": "경탄/Noun",
+      "level": 2
+    },
+    {
+      "name": "미움",
+      "category": "혐오",
+      "tag": "미움/Noun",
+      "level": 2
+    },
+    {
+      "name": "동정",
+      "category": "슬픔",
+      "tag": "동정/Noun",
+      "level": 2
+    },
+    {
+      "name": "두려움",
+      "category": "공포",
+      "tag": "두려움/Noun",
+      "level": 2
+    },
+    {
+      "name": "욕정",
+      "category": "흥미",
+      "tag": "욕정/Noun",
+      "level": 2
+    },
+    {
+      "name": "조롱",
+      "category": "혐오",
+      "tag": "조롱/Noun",
+      "level": 2
+    },
+    {
+      "name": "적의",
+      "category": "분노",
+      "tag": "적의/Noun",
+      "level": 2
+    },
+    {
+      "name": "환희",
+      "category": "기쁨",
+      "tag": "환희/Noun",
+      "level": 3
+    },
+    {
+      "name": "영광",
+      "category": "기쁨",
+      "tag": "영광/Noun",
+      "level": 3
+    },
+    {
+      "name": "멸시",
+      "category": "혐오",
+      "tag": "멸시/Noun",
+      "level": 3
+    },
+    {
+      "name": "우와",
+      "category": "놀람",
+      "tag": "우와/Exclamation",
+      "level": 2
+    },
+    {
+      "name": "축하",
+      "category": "기쁨",
+      "tag": "축하/Noun",
+      "level": 2
+    },
+    {
+      "name": "ㅈㄹ",
+      "category": "분노",
+      "tag": "ㅈㄹ/KoreanParticle",
+      "level": 2
+    },
+    {
+      "name": "씨발",
+      "category": "분노",
+      "tag": "씨발/Noun",
+      "level": 2
+    },
+    {
+      "name": "시발",
+      "category": "분노",
+      "tag": "시발/Noun",
+      "level": 2
+    },
+    {
+      "name": "ㅅㅂ",
+      "category": "분노",
+      "tag": "ㅅㅂ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "ㅂㅅ",
+      "category": "분노",
+      "tag": "ㅂㅅ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "멋있다",
+      "category": "흥미",
+      "tag": "멋있다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "호감",
+      "category": "흥미",
+      "tag": "호감/Noun",
+      "level": 2
+    },
+    {
+      "name": "아빠미소",
+      "category": "기쁨",
+      "tag": "아빠/Noun|미소/Noun",
+      "level": 3
+    },
+    {
+      "name": "미소짓다",
+      "category": "기쁨",
+      "tag": "미소/Noun|짓다/Verb",
+      "level": 2
+    },
+    {
+      "name": "구리다",
+      "category": "혐오",
+      "tag": "구려/Noun",
+      "level": 2
+    },
+    {
+      "name": "퍄퍄",
+      "category": "흥미",
+      "tag": "퍄퍄/Noun",
+      "level": 1
+    },
+    {
+      "name": "오우야",
+      "category": "흥미",
+      "tag": "오우야/Noun",
+      "level": 1
+    },
+    {
+      "name": "ㅗㅜㅑ",
+      "category": "흥미",
+      "tag": "ㅗㅜㅑ/KoreanParticle",
+      "level": 1
+    },
+    {
+      "name": "무능",
+      "category": "혐오",
+      "tag": "무능/Noun",
+      "level": 2
+    },
+    {
+      "name": "무식",
+      "category": "혐오",
+      "tag": "무식/Noun",
+      "level": 2
+    },
+    {
+      "name": "혐오",
+      "category": "혐오",
+      "tag": "혐오/Noun",
+      "level": 3
+    },
+    {
+      "name": "오잉",
+      "category": "놀람",
+      "tag": "오잉/Noun",
+      "level": 2
+    },
+    {
+      "name": "못마땅하다",
+      "category": "분노",
+      "tag": "못/VerbPrefix|마땅하다",
+      "level": 2
+    },
+    {
+      "name": "시간낭비",
+      "category": "지루함",
+      "tag": "시간/Noun|낭비/Noun",
+      "level": 1
+    },
+    {
+      "name": "빼애액",
+      "category": "분노",
+      "tag": "/Noun|애액/Noun",
+      "level": 1
+    },
+    {
+      "name": "흐뭇",
+      "category": "기쁨",
+      "tag": "흐믓/Noun",
+      "level": 2
+    },
+    {
+      "name": "이불킥",
+      "category": "슬픔",
+      "tag": "이불/Noun|킥/Noun",
+      "level": 1
+    },
+    {
+      "name": "쪽팔리다",
+      "category": "분노",
+      "tag": "쪽/Noun|팔리다/Verb",
+      "level": 1
+    },
+    {
+      "name": "시비",
+      "category": "분노",
+      "tag": "시비/Noun",
+      "level": 1
+    },
+    {
+      "name": "욕하다",
+      "category": "분노",
+      "tag": "욕/Noun|하다/Verb",
+      "level": 2
+    },
+    {
+      "name": "자괴감",
+      "category": "혐오",
+      "tag": "자괴/Noun|감/Noun",
+      "level": 2
+    },
+    {
+      "name": "귀엽다",
+      "category": "흥미",
+      "tag": "귀엽다/Adjective",
+      "level": 1
+    },
+    {
+      "name": "잘생기다",
+      "category": "흥미",
+      "tag": "잘생기다/Adjective",
+      "level": 1
+    },
+    {
+      "name": "미소",
+      "category": "기쁨",
+      "tag": "미소/Noun",
+      "level": 2
+    },
+    {
+      "name": "자랑스럽다",
+      "category": "기쁨",
+      "tag": "자랑스럽다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "^^",
+      "category": "기쁨",
+      "tag": "^^/Punctuation",
+      "level": 1
+    },
+    {
+      "name": "귀엽다",
+      "category": "흥미",
+      "tag": "귀엽다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "축하",
+      "category": "기쁨",
+      "tag": "축하/Noun",
+      "level": 2
+    },
+    {
+      "name": "꽃길",
+      "category": "기쁨",
+      "tag": "꽃길/Noun",
+      "level": 2
+    },
+    {
+      "name": "학살",
+      "category": "공포",
+      "tag": "학살/Noun",
+      "level": 2
+    },
+    {
+      "name": "동정심",
+      "category": "슬픔",
+      "tag": "동정/Noun|심/Noun",
+      "level": 2
+    },
+    {
+      "name": "웃음이모티콘",
+      "category": "기쁨",
+      "tag": ":/Punctuation|)/Punctuation",
+      "level": 2
+    },
+    {
+      "name": "나쁨이모티콘",
+      "category": "분노",
+      "tag": ":/Punctuation|(/Punctuation",
+      "level": 2
+    },
+    {
+      "name": "하트이모티콘",
+      "category": "기쁨",
+      "tag": "</Punctuation|3/Number",
+      "level": 2
+    },
+    {
+      "name": "해피",
+      "category": "기쁨",
+      "tag": "해피/Noun",
+      "level": 3
+    },
+    {
+      "name": "해피해피",
+      "category": "기쁨",
+      "tag": "해피/Noun|해피/Noun",
+      "level": 3
+    },
+    {
+      "name": "즐거움",
+      "category": "기쁨",
+      "tag": "즐거움/Noun",
+      "level": 3
+    },
+    {
+      "name": "하트",
+      "category": "기쁨",
+      "tag": "♡/Foreign",
+      "level": 2
+    },
+    {
+      "name": "재밌다",
+      "category": "기쁨",
+      "tag": "재밌다/Adjective",
+      "level": 2
+    },
+    {
+      "name": "애처롭다",
+      "category": "슬픔",
+      "tag": "애처롭/Noun",
+      "level": 2
+    },
+    {
+      "name": "애처로운",
+      "category": "슬픔",
+      "tag": "애처/Noun|로운/Josa",
+      "level": 2
+    },
+    {
+      "name": "애처로-",
+      "category": ",슬픔",
+      "tag": "애처/Noun|로/Josa",
+      "level": 2
+    },
+    {
+      "name": "기가막히다",
+      "category": "분노",
+      "tag": "기/Noun|가/Josa|막히다/Verb",
+      "level": 1
+    },
+    {
+      "name": "유쾌",
+      "category": "기쁨",
+      "tag": "유쾌/Noun",
+      "level": 2
+    },
+    {
+      "name": "파이팅",
+      "category": "기쁨",
+      "tag": "파이팅/Noun",
+      "level": 2
+    },
+    {
+      "name": "개소리",
+      "category": "분노",
+      "tag": "개/Noun|소리/Noun",
+      "level": 2
+    }
+  ]
+}

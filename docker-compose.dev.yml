@@ -1,0 +1,31 @@
+version: '2'
+services:
+    flask:
+        build: .
+        links:
+            - db
+        ports:
+            - "80:80"
+            - "8080:8080"
+        volumes:
+            - ./data/flask:/var/www/flask
+            - ./data/flask.conf:/etc/nginx/sites-available/flask.conf:ro
+            - ./data/supervisord.conf:/etc/supervisor/conf.d/supervisord.conf:ro
+            - ./data/log/uwsgi:/var/log/uwsgi
+            - ./data/log/nginx:/var/log/nginx
+        restart: always
+
+    db:
+        image: postgres:9.6.1
+        ports:
+            - "5432:5432"
+        volumes:
+            - db:/var/lib/postgresql
+        restart: always
+        environment:
+            - POSTGRES_PASSWORD=dbpasswd
+            - POSTGRES_DB=dbname
+            - POSTGRES_USER=dbuser
+
+volumes:
+    db:
